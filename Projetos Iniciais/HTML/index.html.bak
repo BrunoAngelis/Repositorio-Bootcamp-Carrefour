@@ -5,6 +5,36 @@
 		<title> Bruno Garcia de Angelis </title>
 	</head>
 	<body>
-		Bruno Garcia de Angelis
+		<img src="Cavaquinho.jpg" alt= "Foto Ilustrativa Cavaquinho">
+		<header><h1>Header Cabeçalho da Página</h1></header>
+		<section>
+			<header><h2> Section - Sessão ou Lista de Posts</h2></header>
+			<article>
+				<header><h3>Post #1</h3></header>
+				<img src ="banjo.jpg" alt = "Foto do banjo">				
+				<p>
+					O <a href="https://www.google.com/search?q=banjo&tbm=isch&ved=2ahUKEwin6uLGl6H3AhUKQ7gEHddhAUwQ2-cCegQIABAA&oq=banjo&gs_lcp=CgNpbWcQAzIHCCMQ7wMQJzIHCCMQ7wMQJzIECAAQQzIICAAQgAQQsQMyBAgAEEMyBQgAEIAEMgQIABBDMgUIABCABDIFCAAQgAQyBQgAEIAEOgsIABCABBCxAxCDAToICAAQsQMQgwE6BwgAELEDEENQvApYyR9gvCJoAXAAeACAAXaIAfEFkgEDMS42mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=0zhfYue0HIqG4dUP18OF4AQ&bih=600&biw=1366" target = "_blank"> Banjo </a>
+					brasileiro tem 4 cordas, e foi popularizado nas rodas de samba
+					do Brasil em meados da década de 1970, quando o cantor, compositor e músico
+					Almir Guineto adotou a ideia de seu parceiro musical, Mussum, de adaptar o 
+					corpo do instrumento ao braço do 
+					<a href="mailto:bng.8@outlook.com" target = "_blank"> cavaquinho.</a> 
+				</p>
+				
+			</article>
+		</section>
+		<footer>
+			<ul>
+				<li>
+					<a href="mailto:bng.8@outlook.com" target="_blank">bng.8@outlook.com</a>
+				</li>
+				<li>
+					<a href="https://www.linkedin.com/in/bruno-garcia-063bb6142/" target="_blank">Linkedin</a>
+				</li>
+				<li>
+					<a href="" target="_blank">Git Hub</a>
+				</li>
+			</ul>
+		</footer>
 	</body>
 </html>
