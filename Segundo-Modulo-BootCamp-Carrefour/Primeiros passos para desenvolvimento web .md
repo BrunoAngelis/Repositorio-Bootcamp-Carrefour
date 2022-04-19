@@ -53,11 +53,11 @@
 
     - Roteador - Aparelho que tem a função de destruir a internet em um ou mais dispositivos : considerado burro pois só manda.
 
-    - Switches - Criado para ser inteligente. 
+    - Switches - Criado para ser inteligente.
 
       
 
-- #####  ######
+#####  ######
 
-  
+
 
