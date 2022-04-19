@@ -1,4 +1,4 @@
-# HTML5
+# HTML5 
 
 ## Definição e estrutura básica
 
@@ -25,16 +25,6 @@ A tag head contém elementos que serão lidos pelo navegador, como os metadados 
 **<body>**
 
 E dentro da tag body colocamos todo o conteúdo visível ao usuário: textos, imagens, vídeos.
-
-## Prática
-
-Como exercício para esse curso iremos construir um site pessoal, e precisamos começar com a estrutura básica que acabamos de ver.
-
-Vamos criar um arquivo index.html e adicionar o doctype e os elementos html, head e body.
-
-Depois adicionaremos os elementos meta e title, no primeiro adicionamos o atributo charset com o valor UTF-8 para dizer ao navegador qual é a codificação dos caracteres e no segundo podemos colocar nosso nome.
-
-E por último escreveremos nosso nome dentro do elemento body apenas para enxergarmos isso no navegador.
 
 ## Semântica
 
@@ -67,20 +57,6 @@ Esse elemento representa o rodapé do conteúdo ou de parte dele, pois ele é ac
 **<h1>**-**<h6>**
 
 Eles não foram criados na versão 5 do HTML e nem são específicos para semântica, mas servem para esse propósito. São utilizados para marcar a importância dos títulos, sendo <h1> o mais importante e <h6> o menos. Uma dica: use apenas um <h1> por página, pois ele representa o objetivo da sua página.
-
-## Prática
-
-Dando continuidade ao nosso site iremos montar sua estrutura. Pensei em adicionarmos um cabeçalho com nosso nome, uma lista de posts (como um blog) e um rodapé para nossos contatos.
-
-Vamos abrir nosso arquivo index.html e começar pelo cabeçalho: criamos um <header> logo abaixo do <body> e colocamos o título da nossa página dentro de um <h1>.
-
-Depois criaremos a lista de postagens: abrimos um elemento section e dentro dele adicionamos outro <header> contendo um <h2>. Notem que eu posso ter mais de um <header> na página.
-
-Para criar nossa postagem adicionamos um <article> com um <header> e um <h3>.
-
-O último passo desta etapa é criar um rodapé para nossas informações de contato: crie um elemento footer antes de fechar o </body>.
-
-Não se preocupe com o layout e com conteúdo da página, nós vamos tratar isso mais a frente.
 
 ## Textos e links
 
