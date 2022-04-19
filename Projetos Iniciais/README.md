@@ -1,2 +1,6 @@
-# REPOSITÓRIO DE DESAFIO SOBRE GIT/GITHUB DA DIO
- -  Projeto sobre Git/GITHUB
+# Projetos Iniciais :school:
+ - PHP
+
+ - HTML
+
+   
